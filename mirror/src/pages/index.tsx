@@ -17,7 +17,7 @@ const IndexPage: React.FC = () => {
         />
         <meta
           property="og:description"
-          content=" eyond the mirror, I look through you"
+          content="Beyond the mirror, I look through you"
         />
         <meta
           property="twitter:description"
