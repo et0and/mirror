@@ -10,7 +10,7 @@ const IndexPage: React.FC = () => {
         <meta property="og:title" content="Stade du miroir" key="title" />
         <meta property="twitter:title" content="Stade du miroir" />
         <meta property="og:type" content="website" />
-        <meta name="theme-color" content="#4689db" />
+        <meta name="theme-color" content="#234c81" />
         <meta
           property="description"
           content="Beyond the mirror, I look through you"
